@@ -88,5 +88,6 @@ demo.launch(share=True, server_port=int(os.environ['PORT1']))
 ### OUTPUT:
 <img width="512" height="512" alt="Untitled" src="https://github.com/user-attachments/assets/9ead2d79-f3a4-4128-89cc-588b6ed6681c" />
 <img width="845" height="494" alt="image" src="https://github.com/user-attachments/assets/50107a83-ddac-42b5-8828-6d475aa63a6b" />
+
 ### RESULT:
 The prototype successfully demonstrates text-to-image generation using Stable Diffusion, providing an interactive and user-friendly interface. Users can modify parameters to influence the output quality and style.
